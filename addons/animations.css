@@ -1,45 +1,43 @@
-.wrapper-28eC3z {
-    transition: transform 0.2s;
-}
-
-.wrapper-28eC3z:hover {
-    transform: scale(1.1);
-}
-
-.containerDefault--pIXnN {
+/* Channels */
+.containerDefault-YUSmu3 {
     transition: all 0.5s;
 }
 
-.containerDefault--pIXnN:hover {
+.containerDefault-YUSmu3:hover {
     transition: all 0.2s;
     transform: translatex(-3px);
 }
 
-.containerDefault--pIXnN:active {
+.containerDefault-YUSmu3:active {
     transition: all 0.2s;
     transform: translatex(1px);
 }
 
-.wrapper-1gVUIN,
-.minimum-fXpVNc,
-.callContainer-HtHELf {
-    background: none !important;
-}
-
-.layout-2DM8Md {
+/* Members */
+.member-2gU6Ar {
     transition: all 0.5s;
 }
 
-.layout-2DM8Md:hover {
+.member-2gU6Ar:hover {
     transition: all 0.2s;
     transform: translatex(-3px);
 }
 
-.base-1pYU8j {
+/* Servers */
+.wrapper-2PSQCG {
+    transition: transform 0.2s;
+}
+
+.wrapper-2PSQCG:hover {
+    transform: scale(1.1);
+}
+
+/* Autocomplete */
+.base-2v-uc0 {
     transition: all 0.3s;
 }
 
-.base-1pYU8j:hover {
+.base-2v-uc0:hover {
     transition: all 0s;
     transform: scale(1.01);
 }

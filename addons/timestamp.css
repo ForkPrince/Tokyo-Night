@@ -1,11 +1,12 @@
-.cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX>[aria-label]::after {
-    content: "(edited " attr(aria-label) ")";
-    text-transform: lowercase;
+.timestamp-p1Df1m:not(.timestampInline-_lS3aK, .timestampVisibleOnHover-9PEuZS) time::after {
+    content: " (" attr(aria-label) ")";
+    color: var(--text-muted);
     font-size: 0.625rem;
     font-weight: 400;
     line-height: 1;
+    text-transform: lowercase;
 }
 
-.cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX .edited-3sfAzf {
+.edited-1v5nT8:not(.message-translate-indicator) {
     display: none;
 }

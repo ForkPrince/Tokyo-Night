@@ -1,0 +1,11 @@
+/* Quick fix for "My Account" */
+.avatar-3mTjvZ {
+    top: auto !important;
+}
+
+/* Use user color as background in vc */
+.wrapper-1gVUIN,
+.minimum-fXpVNc,
+.callContainer-HtHELf {
+    background: none !important;
+}

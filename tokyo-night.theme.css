@@ -13,13 +13,12 @@
 
 /* Revert Rebrand */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/revert-rebrand.css");
+
+/* Colored SVGs */
 @import url("https://nyri4.github.io/Discolored/main.css");
 
 /* Syntax Highlight, get hljs styling with Tokyo Night scheme. */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/syntax-highlight.css");
-
-/* Username Background, get colorful background behind username on chat, works best with Monospace addon. */
-@import url("https://forkprince.github.io/Tokyo-Night/addons/username-background.css");
 
 /* Colored Mentions */
 @import url("https://davart154.github.io/Themes/Snippets/Colored%20Mentions/ColoredMentionsSource.css");
@@ -48,17 +47,23 @@
 /* Colorful profile popout */
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css");
 
-/* Dark Mode - Add Server Menu */
-@import url("https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css");
-
 /* Add Animations */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/animations.css");
 
-/* Compact DM */
-@import url("https://forkprince.github.io/Tokyo-Night/addons/compact-dm.css");
-
-/* Edit Timestamp */
+/* Edit Timestamp |*/
 @import url("https://forkprince.github.io/Tokyo-Night/addons/timestamp.css");
+
+/* Chat Bubbles */
+@import url("https://forkprince.github.io/Tokyo-Night/addons/chat-bubbles.css");
+
+/* Better Inbox */
+@import url("https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css");
+
+/* Solid discord status */
+@import url("https://zuzumi-f.github.io/classic-discord-status/2016-status.css");
+
+/* Extras */
+@import url("https://forkprince.github.io/Tokyo-Night/addons/utils.css");
 
 /* ==== Discord Variables ==== */
 .theme-dark { /* Dark Mode */
