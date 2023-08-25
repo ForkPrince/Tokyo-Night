@@ -1,0 +1,45 @@
+.wrapper-28eC3z {
+    transition: transform 0.2s;
+}
+
+.wrapper-28eC3z:hover {
+    transform: scale(1.1);
+}
+
+.containerDefault--pIXnN {
+    transition: all 0.5s;
+}
+
+.containerDefault--pIXnN:hover {
+    transition: all 0.2s;
+    transform: translatex(-3px);
+}
+
+.containerDefault--pIXnN:active {
+    transition: all 0.2s;
+    transform: translatex(1px);
+}
+
+.wrapper-1gVUIN,
+.minimum-fXpVNc,
+.callContainer-HtHELf {
+    background: none !important;
+}
+
+.layout-2DM8Md {
+    transition: all 0.5s;
+}
+
+.layout-2DM8Md:hover {
+    transition: all 0.2s;
+    transform: translatex(-3px);
+}
+
+.base-1pYU8j {
+    transition: all 0.3s;
+}
+
+.base-1pYU8j:hover {
+    transition: all 0s;
+    transform: scale(1.01);
+}
