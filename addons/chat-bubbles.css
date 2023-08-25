@@ -19,3 +19,12 @@
     --chat-bubble-box-shadow-color-l: 0%;
     --chat-bubble-box-shadow-color-a: 0.16;
 }
+
+.cozy-VmLDNB .headerText-2z4IhQ>.username-h_Y3Us::before {
+    z-index: 1!important;
+}
+
+.groupStart-3Mlgv1.cozyMessage-1DWF9U.mentioned-Tre-dv .contents-2MsGLg,
+.cozyMessage-1DWF9U.mentioned-Tre-dv:not(.groupStart-3Mlgv1) .contents-2MsGLg>.markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
+    border: calc(1px * var(--chat-bubble)) solid rgba(255, 255, 255, 0.05);
+}

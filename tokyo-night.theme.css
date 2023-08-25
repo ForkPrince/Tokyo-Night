@@ -46,11 +46,12 @@
 
 /* Colorful profile popout */
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css");
+@import url("https://forkprince.github.io/Tokyo-Night/addons/profile-fix.css");
 
 /* Add Animations */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/animations.css");
 
-/* Edit Timestamp |*/
+/* Edit Timestamp */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/timestamp.css");
 
 /* Chat Bubbles */
@@ -58,9 +59,6 @@
 
 /* Better Inbox */
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css");
-
-/* Solid discord status */
-@import url("https://zuzumi-f.github.io/classic-discord-status/2016-status.css");
 
 /* Extras */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/utils.css");
