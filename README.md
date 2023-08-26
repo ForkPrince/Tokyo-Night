@@ -12,7 +12,7 @@
 ### BetterDiscord and Vencord
 
 1. Download the theme file [here](https://github.com/ForkPrince/Tokyo-Night/raw/main/tokyo-night.theme.css)
-2. Place it in the BetterDiscord or Vencord themes folder
+2. Place it in your themes folder
 3. Enable Tokyo Night in the themes tab
 
 ### Replugged
