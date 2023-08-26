@@ -1,0 +1,24 @@
+/* See full "about me" */
+[class*="lineClamp2Plus-"] {
+    -webkit-line-clamp: unset !important;
+}
+
+/* Hide status descriptions */
+.description-1Dd2kv {
+    display: none
+}
+
+.section-28YDOf:has(.note-1NN2aP) {
+    display: none;
+    padding-bottom: 23px;
+}
+
+/* Remove notes from user popout */
+[class*=memberSinceContainer-] {
+    margin-bottom: 14px;
+}
+
+/* Remove "about me" from your user popout */
+#popout_24 .scroller-15bIdk {
+	display: none
+}

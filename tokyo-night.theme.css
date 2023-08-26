@@ -44,10 +44,6 @@
 /* Discord Links */
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/DiscordLinks.css");
 
-/* Colorful profile popout */
-@import url("https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css");
-@import url("https://forkprince.github.io/Tokyo-Night/addons/profile-fix.css");
-
 /* Add Animations */
 @import url("https://forkprince.github.io/Tokyo-Night/addons/animations.css");
 
@@ -59,6 +55,15 @@
 
 /* Better Inbox */
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css");
+
+/* Minimal Auth Apps */
+@import url("https://forkprince.github.io/Tokyo-Night/addons/auth.css");
+
+/* Improved Profile Panel */
+@import url("https://forkprince.github.io/Tokyo-Night/addons/profile-panel.css");
+
+/* Extras */
+@import url("https://forkprince.github.io/Tokyo-Night/addons/utils.css");
 
 /* ==== Discord Variables ==== */
 .theme-dark { /* Dark Mode */
