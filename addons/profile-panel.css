@@ -1,6 +1,0 @@
-@import url("https://snare-hawk.github.io/snare-CSS/profile-panel-thingy.css");
-
-div.spotify-seek-bar {
-    --borders: 1px var(--background-modifier-accent) solid;
-    border-bottom: var(--borders) !important;
-}
