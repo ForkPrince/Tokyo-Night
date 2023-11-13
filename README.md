@@ -1,7 +1,7 @@
 <h1 align="center">Tokyo Night</h1>
 <h3 align="center">A forked version of Tokyo Night that I personnally use</h3>
 
-![](https://github.com/Dyzean/Tokyo-Night/blob/main/assets/preview.png?raw=true)
+![](https://github.com/ForkPrince/Tokyo-Night/blob/main/assets/preview.png?raw=true)
 
 <p align="center">A clean, dark, Discord theme based on <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a> colorscheme.</p>
 
